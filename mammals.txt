@@ -1,0 +1,7 @@
+zebra
+lion
+giraffe
+
+tiger
+lemur
+parrot
